@@ -1,0 +1,15 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header,
+main {
+  margin: 0 auto;
+  max-width: 666px;
+  text-align: center;
+}
+
+iframe {
+  height: 666px;
+  width: 100%;
+}
